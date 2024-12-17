@@ -1,0 +1,21 @@
+# Node.js klasörleri
+node_modules/
+.npm/
+.cache/
+
+# Sistem klasörleri
+.gradle/
+.android/
+AppData/
+Logs/
+temp/
+*.log
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.tmp
+*.bak
+*.swp
